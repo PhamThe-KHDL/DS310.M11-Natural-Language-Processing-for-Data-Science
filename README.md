@@ -12,7 +12,7 @@ Học kỳ 1 Năm 3 Năm học 2021-2022
 - Nguyễn Văn Kiệt
 - Nguyễn Đức Vũ
 - Lưu Thanh Sơn
-- Nguyễn Văn Tín
+- Huỳnh Văn Tín
 - Nguyễn Thành Luân
 
 ## Nội Dung Môn Học
