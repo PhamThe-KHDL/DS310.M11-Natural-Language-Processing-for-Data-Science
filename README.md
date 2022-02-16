@@ -2,7 +2,7 @@
 
 
 
-DS310.M11 - Natural Language Processing for Data Science
+DS310.M11 - Xử Lý Ngôn Ngữ Tự Nhiên Cho Khoa Học Dữ Liệu 
 
 
 Học kỳ 1 Năm 3 Năm học 2021-2022 
