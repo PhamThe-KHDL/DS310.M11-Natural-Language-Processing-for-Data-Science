@@ -17,9 +17,9 @@ Học kỳ 1 Năm 3 Năm học 2021-2022
 
 ## Nội Dung Môn Học
 
-| Buổi | Ngày | Nội Dung | Mô Tả | LT/TH | Video Record |
-| ----- | ----- | ----- | ----- | ----- | ----- |
-|  |  |  |  |  |  |
+| Buổi | Ngày | Nội Dung | Mô Tả | LT/TH | Slide | Code | Video Record |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+|  |  |  |  |  |  |  |  |
 
 ## Thực hiện
 
