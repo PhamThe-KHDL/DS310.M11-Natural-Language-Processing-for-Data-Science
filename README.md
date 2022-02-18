@@ -19,7 +19,7 @@ Học kỳ 1 Năm 3 Năm học 2021-2022
 
 | Buổi | Ngày | Nội Dung | Mô Tả | LT/TH | Slide | Code | Video Record |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| 01 | 09/09/2021 | Giới thiệu xử lý ngôn ngữ tự nhiên cho khoa học dữ liệu |  | LT-01 | <ul><li> [1 - Giới Thiệu](https://github.com/PhamThe-KHDL/DS310.M11-Natural-Language-Processing-for-Data-Science/blob/main/L%C3%9D%20THUY%E1%BA%BET/WEEK%2001%20-%2009-09-2021/1-gioi%20thieu.pdf) </li><li>  </li></ul> |  | [01 - Giới thiệu xử lý ngôn ngữ tự nhiên cho khoa học dữ liệu](https://youtu.be/d_rMqaJR1_I) |
+| 01 | 09/09/2021 | Giới thiệu xử lý ngôn ngữ tự nhiên cho khoa học dữ liệu |  | LT-01 | <ul><li> [1 - Giới Thiệu](https://github.com/PhamThe-KHDL/DS310.M11-Natural-Language-Processing-for-Data-Science/blob/main/L%C3%9D%20THUY%E1%BA%BET/WEEK%2001%20-%2009-09-2021/1-gioi%20thieu.pdf) </li><li> [Chapter 0 - Intro](https://github.com/PhamThe-KHDL/DS310.M11-Natural-Language-Processing-for-Data-Science/blob/main/L%C3%9D%20THUY%E1%BA%BET/WEEK%2001%20-%2009-09-2021/Chapter%200%20-%20Intro.pdf) </li></ul> |  | [01 - Giới thiệu xử lý ngôn ngữ tự nhiên cho khoa học dữ liệu](https://youtu.be/d_rMqaJR1_I) |
 | 02 |  |  |  |  |  |  |  |
 | 03 |  |  |  |  |  |  |  |
 | 04 |  |  |  |  |  |  |  |
