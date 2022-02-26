@@ -34,7 +34,7 @@ Học kỳ 1 Năm 3 Năm học 2021-2022
 | 13 | 18/11/2021 | Hệ thống hỏi đáp |  | LT-10 | [Chương-24-Question-Answering](https://github.com/PhamThe-KHDL/DS310.M11-Natural-Language-Processing-for-Data-Science/blob/main/L%C3%9D%20THUY%E1%BA%BET/WEEk10%20-%2018-11-2021/Ch%C6%B0%C6%A1ng-24-Question-Answering.pdf) |  | [10 - Hệ thống hỏi đáp](https://youtu.be/N-xIa5z3JAs) |
 | 14 | 23/11/2021 | Huấn luyện mô hình ngôn ngữ dựa trên mạng nơ ron nhân tạo |  | TH-02 |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10bgvHDS70Rt9Oh0-xbo-fxopr6elnzIh?usp=sharing) | [Lab02 - Huấn luyện mô hình ngôn ngữ dựa trên mạng nơ ron nhân tạo](https://youtu.be/7A1HVlCWXKc) |
 | 15 | 25/11/2021 | Chia sẻ kinh nghiệm NCHK và các dự án NLP |  | LT-11 | [Slide](https://github.com/PhamThe-KHDL/DS310.M11-Natural-Language-Processing-for-Data-Science/tree/main/L%C3%9D%20THUY%E1%BA%BET/WEEK11%20-%2025-11-2021) |  | [11 - Chia sẻ kinh nghiệm NCHK và các dự án NLP](https://youtu.be/_PKFFP4hiGc) |
-| 16 | 23/12/2021 | Báo cáo Session 1 |  |  | LT-12 |  | [12 - Báo cáo Session 1](https://youtu.be/Ds8vSv_SY1E) |
+| 16 | 23/12/2021 | Báo cáo Session 1 |  | LT-12 |  |  | [12 - Báo cáo Session 1](https://youtu.be/Ds8vSv_SY1E) |
 
 
 
