@@ -44,6 +44,7 @@ Học kỳ 1 Năm 3 Năm học 2021-2022
 - Thư viện số dành cho NLP: [ACL Anthology](https://aclanthology.org/)
 - Các khóa học NLP: [List of NLP/CL courses](https://aclweb.org/aclwiki/List_of_NLP/CL_courses?fbclid=IwAR3NuZb1Nt3IIYOzW0K9KCrrH1C-iEGKiitTHNNB4HEXu-BuwtyCBcgDvHw)
 - Bổ sung LT-10: [Question Answering](https://github.com/danqi/acl2020-openqa-tutorial)
+- Youtube[Graham Neubig](https://www.youtube.com/user/neubig/featured)
 
 
 ## Thực hiện
